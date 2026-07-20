@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D6C,100:0A6E4E&height=200&section=header&text=SmartSurvey&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Smart%20Field%20Survey%20%26%20Inspection%20App&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+
 
 <a href="https://github.com/Purnansh29/smart-field-survey-inspection-app">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=0F9D6C&center=true&vCenter=true&width=600&lines=Digitizing+Field+Surveys+%F0%9F%8F%97%EF%B8%8F;Offline-First+%7C+Cross-Platform+%7C+Fast+%E2%9A%A1;Built+with+React+Native+%2B+Expo+%F0%9F%9A%80" alt="Typing SVG" />
